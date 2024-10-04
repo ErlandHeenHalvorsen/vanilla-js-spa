@@ -1,0 +1,33 @@
+{
+  "name": "vanilla-js-spa",
+  "version": "0.0.1",
+  "description": "Dagens NASA picture of the day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ErlandHeenHalvorsen/vanilla-js-spa.git"
+  },
+  "keywords": [
+    "erlhal"
+  ],
+  "author": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cworkflow\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Cerhal\u001b[D\u001b[D\u001b[Dlhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErlandHeenHalvorsen/vanilla-js-spa/issues"
+  },
+  "homepage": "https://github.com/ErlandHeenHalvorsen/vanilla-js-spa#readme",
+  "devDependencies": {
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "babel-jest": "^29.7.0",
+    "babel-plugin-transform-vite-meta-env": "^1.0.3",
+    "eslint": "^9.11.1",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "prettier": "^3.3.3",
+    "vite": "^5.4.8"
+  }
+}
